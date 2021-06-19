@@ -1,0 +1,7 @@
+(Scale) [Rotation] <Transform>
+----------------------------------------------------------------------------------------------------
+CAPPY PLACEMENT (Relative to local position of "Cap" bone, or "JointRoot" for Cap-Throw models):
+
+Football Helmet: (1, 1, 1) [-24, 0, 0] <0, 2, 33>
+Football Helmet (Cap Throw): (1.5, 1.5, 1.5) [-25, 0, 0] <0, 7, 50>
+----------------------------------------------------------------------------------------------------
